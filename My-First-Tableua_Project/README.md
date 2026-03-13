@@ -16,12 +16,12 @@ This Tableau project explores baker performance across episodes and investigates
 
 ### Baker Performance
 <p align="center">
-  <img src="Images/baker_performance_preview.png" width="1000">
+  <img src="Images/Baker_Performance.png" width="1000">
 </p>
 
 ### Star Baker Performance
 <p align="center">
-  <img src="Images/star_bakers_preview.png" width="1000">
+  <img src="Images/Star_Bakers.png" width="1000">
 </p>
 
 
