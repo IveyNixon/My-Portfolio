@@ -1,6 +1,6 @@
 # 🧮 Sexy Legs SQL Project
 
-![Data Gap Visualization](Images/SQL_Project_Image.png)
+![Data Gap Visualization](Image/SQL_Project_Image.png)
 
 This project began with a simple question:
 
