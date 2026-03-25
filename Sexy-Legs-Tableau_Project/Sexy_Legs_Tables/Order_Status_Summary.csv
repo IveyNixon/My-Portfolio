@@ -1,0 +1,6 @@
+current_status,status_count,total_processed
+Shipped,36,120
+Complete,34,120
+Processing,22,120
+Returned,17,120
+Cancelled,11,120
